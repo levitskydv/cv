@@ -4,4 +4,4 @@
 
 | Page 1 |
 |:---:|
-| [![Résumé](https://levitskydv.github.io/cv/cv1.png)](https://levitskydv.github.io/cv/cv.pdf)  |
+| [![Résumé](https://levitskydv.github.io/cv/cv.png)](https://levitskydv.github.io/cv/cv.pdf)  |
