@@ -1,2 +1,7 @@
-# CV and Cover Letter
-Here is presented my CV and Cover Letter.
+# cv
+
+[PDF](https://levitskydv.github.io/cv/cv.pdf)
+
+| Page 1 |
+|:---:|
+| [![Résumé](https://levitskydv.github.io/cv/cv.png)](https://levitskydv.github.io/cv/cv.pdf)  |
